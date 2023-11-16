@@ -40,7 +40,7 @@ Make sure you have the following installed before setting up the project:
 1. Clone the repository to your local machine.
 
 ```bash
-git clone https://github.com/your-username/shopping-mall-management.git
+git clone https://github.com/abdul-1432/Shopping-Mall-Management-System
 ```
 
 2. Set up your SQL database and update the application.properties file with the database configurations.
@@ -62,9 +62,6 @@ java -jar target/shopping-mall-management.jar
 1. Access the application through the provided API endpoints.
 2. Use Postman to test and debug the APIs using the provided collection.
 
-## Contributing
-
-Feel free to contribute to the project by opening issues or submitting pull requests. Follow the [Contributing Guidelines](CONTRIBUTING.md) for more details.
 
 ## License
 
